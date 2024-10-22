@@ -1,0 +1,21 @@
+﻿<Window x:Class="_22_103k_Nazarov_2variant.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_22_103k_Nazarov_2variant"
+        mc:Ignorable="d"
+        ResizeMode="CanMinimize" WindowStartupLocation="CenterScreen"
+        Title="MainWindow" Height="500" Width="700">
+    <Grid>
+        <TextBox x:Name="tb_task" TextWrapping="Wrap" Margin="10,48,24,333" IsReadOnly="True" TextBlock.FontSize="20" Text="Вводится строка-предложение на английском языке. Подсчитать количество содержащихся в строке гласных букв, а также вывести самое длинное слово предложения."/>
+        <TextBox x:Name="tb_name" TextWrapping="Wrap" Margin="10,10,24,421" IsReadOnly="True" TextBlock.FontSize="24" Text="Назаров, 2-ой вариант"/>
+        <TextBox x:Name="tb_input" TextWrapping="Wrap" Margin="110,167,24,0" TextBlock.FontSize="20" VerticalAlignment="Top" TextChanged="tb_input_TextChanged" Height="139"/>
+        <Label Content="Текст:" Margin="10,167,564,259" TextBlock.FontSize="20"/>
+        <Button x:Name="btn_execute" Content="Выполнить" Margin="238,413,238,10" TextBlock.FontSize="20" Click="btn_execute_Click"/>
+        <Label Content="Количество гласных в тексте:" Margin="10,319,345,107" TextBlock.FontSize="20"/>
+        <Label Content="Самое длинное слово:" Margin="15,362,402,64" TextBlock.FontSize="20"/>
+        <TextBox x:Name="tb_vowelsCount" TextWrapping="Wrap" Margin="295,323,17,111" IsReadOnly="True" TextBlock.FontSize="20"/>
+        <TextBox x:Name="tb_longWord" TextWrapping="Wrap" Margin="238,366,17,68" IsReadOnly="True" TextBlock.FontSize="20"/>
+    </Grid>
+</Window>

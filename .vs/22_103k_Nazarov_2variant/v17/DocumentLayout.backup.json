@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\netdev\\Projects\\C#\\22_103k_Nazarov_2variant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66A452D1-2E56-42D1-8FBD-4BDAE71D4C44}|22_103k_Nazarov_2variant\\22_103k_Nazarov_2variant.csproj|c:\\users\\netdev\\projects\\c#\\22_103k_nazarov_2variant\\22_103k_nazarov_2variant\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66A452D1-2E56-42D1-8FBD-4BDAE71D4C44}|22_103k_Nazarov_2variant\\22_103k_Nazarov_2variant.csproj|solutionrelative:22_103k_nazarov_2variant\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66A452D1-2E56-42D1-8FBD-4BDAE71D4C44}|22_103k_Nazarov_2variant\\22_103k_Nazarov_2variant.csproj|c:\\users\\netdev\\projects\\c#\\22_103k_nazarov_2variant\\22_103k_nazarov_2variant\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66A452D1-2E56-42D1-8FBD-4BDAE71D4C44}|22_103k_Nazarov_2variant\\22_103k_Nazarov_2variant.csproj|solutionrelative:22_103k_nazarov_2variant\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\netdev\\Projects\\C#\\22_103k_Nazarov_2variant\\22_103k_Nazarov_2variant\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "22_103k_Nazarov_2variant\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\netdev\\Projects\\C#\\22_103k_Nazarov_2variant\\22_103k_Nazarov_2variant\\MainWindow.xaml",
+              "RelativeToolTip": "22_103k_Nazarov_2variant\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-22T23:12:29.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\netdev\\Projects\\C#\\22_103k_Nazarov_2variant\\22_103k_Nazarov_2variant\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "22_103k_Nazarov_2variant\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\netdev\\Projects\\C#\\22_103k_Nazarov_2variant\\22_103k_Nazarov_2variant\\MainWindow.xaml.cs",
+              "RelativeToolTip": "22_103k_Nazarov_2variant\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAIAwwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T23:12:27.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

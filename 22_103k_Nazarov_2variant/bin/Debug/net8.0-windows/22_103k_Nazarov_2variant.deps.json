@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "22_103k_Nazarov_2variant/1.0.0": {
+        "runtime": {
+          "22_103k_Nazarov_2variant.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22_103k_Nazarov_2variant/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
